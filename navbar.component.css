@@ -1,0 +1,11 @@
+/* .navbar-light .navbar-nav .nav-link .active-link{
+    color: green;
+} */
+.navbar-nav { 
+    color: var(--primary-color);
+}
+.navbar-nav  .active-link{ 
+    color: var(--secondary-color);
+    text-decoration: underline;
+    font-weight: bold;
+}
